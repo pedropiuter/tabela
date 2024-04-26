@@ -1,0 +1,28 @@
+
+
+.br{
+    
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 133, 10);
+    padding: 40px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}  
+
+.pedro {
+    color: brown;
+    
+}
+.table {
+    color: blue;
+    
+    padding-left: 300px;
+}
+.toma{
+    color: aliceblue;
+    background-color: rgb(71, 133, 10);
+padding: 40px;
+}
